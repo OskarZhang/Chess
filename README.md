@@ -6,3 +6,6 @@ Two modes: Normal chess
 
 Funky chess featuring two new pieces: Drunken Knight and Elephant
 [![](https://dl.dropbox.com/s/ymjtrfa0qhnlyg2/github_oskarzhang_funky_chess.png)](https://dl.dropbox.com/s/ymjtrfa0qhnlyg2/github_oskarzhang_funky_chess.png)
+
+
+Elephant icon made by Freepik from www.flaticon.com
